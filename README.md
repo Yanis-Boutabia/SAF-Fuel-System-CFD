@@ -20,7 +20,7 @@ Fuel system corrosion in service is rarely a purely chemical phenomenon — it i
 
 ## Results
 
-### Wall Shear Stress — SAF HEFA vs Jet-A1
+### Wall Shear Stress — Jet-A1 vs SAF HEFA
 
 ![image alt](https://github.com/Yanis-Boutabia/SAF-Fuel-System-CFD/blob/57524587aacf020961c306a0b3ee8b64494f99fd/JetA-1_WSS.png)
 *Wall shear stress distribution on the pipe wall for Jet-A1 (reference case)*
