@@ -47,7 +47,7 @@ Three CFM56 fuel circuit materials were tested at SAF HEFA conditions (Re ≈ 32
 
 Despite a 110× higher roughness for carbon steel versus polished aluminium, WSS remains identical (23 Pa) across all three materials. This is explained by the flow regime: at Re ≈ 31,700–33,100, the flow is hydraulically smooth — the viscous sublayer remains thicker than the wall roughness elements. Differentiating materials mechanically would require Re > 100,000.
 
-![Mesh — polyhedral with prism layers](./images/screenshot-1.png)
+![image alt](https://github.com/Yanis-Boutabia/SAF-Fuel-System-CFD/blob/1d0b75e4fdab62a6076f953e01157e64da4ffcb9/Mesh.png)
 *STAR-CCM+ polyhedral mesher with 3 wall prism layers*
 
 ## Conclusion
