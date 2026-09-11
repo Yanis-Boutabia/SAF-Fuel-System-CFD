@@ -25,7 +25,7 @@ Fuel system corrosion in service is rarely a purely chemical phenomenon — it i
 ![image alt](https://github.com/Yanis-Boutabia/SAF-Fuel-System-CFD/blob/57524587aacf020961c306a0b3ee8b64494f99fd/JetA-1_WSS.png)
 *Wall shear stress distribution on the pipe wall for Jet-A1 (reference case)*
 
-![image alt](
+![image alt](https://github.com/Yanis-Boutabia/SAF-Fuel-System-CFD/blob/89df465d665b29e976093315c372811d2f3be3da/SAF_HEFA_WSS.png)
 *Wall shear stress distribution for SAF HEFA — lower peak stress than Jet-A1*
 
 | Fuel | WSS min (Pa) | WSS mean (Pa) | WSS max (Pa) | Δ vs Jet-A1 |
